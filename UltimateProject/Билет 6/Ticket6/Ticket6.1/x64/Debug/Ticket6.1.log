@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PasswordCheck.cpp
+C:\Users\KING\source\repos\Ticket6\Ticket6.1\PasswordCheck.cpp(6,6): warning C4273: ValidatePassword: несовместимое связывание dll
+  (компиляция исходного файла "/PasswordCheck.cpp")
+      C:\Users\KING\source\repos\Ticket6\Ticket6.1\PasswordCheck.h(14,25):
+      см. предыдущее определение "ValidatePassword"
+  
+  Создание кода...
+     Создается библиотека C:\Users\KING\source\repos\Ticket6\x64\Debug\Ticket6.1.lib и объект C:\Users\KING\source\repos\Ticket6\x64\Debug\Ticket6.1.exp
+  Ticket6.1.vcxproj -> C:\Users\KING\source\repos\Ticket6\x64\Debug\Ticket6.1.dll

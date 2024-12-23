@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KING\\source\\repos\\Ticket2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D2BC1-9E7B-4060-9E1F-3B49A575DDF7}|Ticket2\\Ticket2.vcxproj|C:\\Users\\KING\\source\\repos\\Ticket2\\Ticket2\\Ticket2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C3D2BC1-9E7B-4060-9E1F-3B49A575DDF7}|Ticket2\\Ticket2.vcxproj|solutionrelative:Ticket2\\Ticket2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EB6A1C-5A28-4A49-8983-8A160942E58A}|Ticket2.1\\Ticket2.1.vcxproj|C:\\Users\\KING\\source\\repos\\Ticket2\\Ticket2.1\\Ticket2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4EB6A1C-5A28-4A49-8983-8A160942E58A}|Ticket2.1\\Ticket2.1.vcxproj|solutionrelative:Ticket2.1\\Ticket2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket2.1.cpp",
+              "DocumentMoniker": "C:\\Users\\KING\\source\\repos\\Ticket2\\Ticket2.1\\Ticket2.1.cpp",
+              "RelativeDocumentMoniker": "Ticket2.1\\Ticket2.1.cpp",
+              "ToolTip": "C:\\Users\\KING\\source\\repos\\Ticket2\\Ticket2.1\\Ticket2.1.cpp",
+              "RelativeToolTip": "Ticket2.1\\Ticket2.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T15:50:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticket2.cpp",
+              "DocumentMoniker": "C:\\Users\\KING\\source\\repos\\Ticket2\\Ticket2\\Ticket2.cpp",
+              "RelativeDocumentMoniker": "Ticket2\\Ticket2.cpp",
+              "ToolTip": "C:\\Users\\KING\\source\\repos\\Ticket2\\Ticket2\\Ticket2.cpp",
+              "RelativeToolTip": "Ticket2\\Ticket2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T15:48:41.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

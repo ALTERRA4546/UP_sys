@@ -1,0 +1,7 @@
+C:\Users\KING\source\repos\Ticket18\Ticket18\bin\Debug\Ticket18.exe.config
+C:\Users\KING\source\repos\Ticket18\Ticket18\bin\Debug\Ticket18.exe
+C:\Users\KING\source\repos\Ticket18\Ticket18\bin\Debug\Ticket18.pdb
+C:\Users\KING\source\repos\Ticket18\Ticket18\obj\Debug\Ticket18.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\Ticket18\Ticket18\obj\Debug\Ticket18.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\Ticket18\Ticket18\obj\Debug\Ticket18.exe
+C:\Users\KING\source\repos\Ticket18\Ticket18\obj\Debug\Ticket18.pdb

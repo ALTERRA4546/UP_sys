@@ -1,0 +1,7 @@
+C:\Users\KING\source\repos\Ticket17\Ticket17\bin\Debug\Ticket17.exe.config
+C:\Users\KING\source\repos\Ticket17\Ticket17\bin\Debug\Ticket17.exe
+C:\Users\KING\source\repos\Ticket17\Ticket17\bin\Debug\Ticket17.pdb
+C:\Users\KING\source\repos\Ticket17\Ticket17\obj\Debug\Ticket17.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\Ticket17\Ticket17\obj\Debug\Ticket17.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\Ticket17\Ticket17\obj\Debug\Ticket17.exe
+C:\Users\KING\source\repos\Ticket17\Ticket17\obj\Debug\Ticket17.pdb

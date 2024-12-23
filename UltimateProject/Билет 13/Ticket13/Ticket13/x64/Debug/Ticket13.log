@@ -1,0 +1,7 @@
+﻿  Ticket13.cpp
+C:\Users\KING\source\repos\Ticket13\Ticket13\Ticket13.cpp(9,52): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\KING\source\repos\Ticket13\Ticket13\Ticket13.cpp(9,52): warning C4267:         with
+C:\Users\KING\source\repos\Ticket13\Ticket13\Ticket13.cpp(9,52): warning C4267:         [
+C:\Users\KING\source\repos\Ticket13\Ticket13\Ticket13.cpp(9,52): warning C4267:             _Ty=int
+C:\Users\KING\source\repos\Ticket13\Ticket13\Ticket13.cpp(9,52): warning C4267:         ]
+  Ticket13.vcxproj -> C:\Users\KING\source\repos\Ticket13\x64\Debug\Ticket13.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KING\\source\\repos\\Ticket11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E597D91-60B2-4857-9214-143A889B9F56}|Ticket11\\Ticket11.vcxproj|C:\\Users\\KING\\source\\repos\\Ticket11\\Ticket11\\Ticket11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E597D91-60B2-4857-9214-143A889B9F56}|Ticket11\\Ticket11.vcxproj|solutionrelative:Ticket11\\Ticket11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticket11.cpp",
+              "DocumentMoniker": "C:\\Users\\KING\\source\\repos\\Ticket11\\Ticket11\\Ticket11.cpp",
+              "RelativeDocumentMoniker": "Ticket11\\Ticket11.cpp",
+              "ToolTip": "C:\\Users\\KING\\source\\repos\\Ticket11\\Ticket11\\Ticket11.cpp",
+              "RelativeToolTip": "Ticket11\\Ticket11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T17:52:47.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KING\\source\\repos\\Ticket9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E735E0-0C44-45FE-9DA6-4ADD75200C5D}|Ticket9\\Ticket9.vcxproj|C:\\Users\\KING\\source\\repos\\Ticket9\\Ticket9\\Ticket9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38E735E0-0C44-45FE-9DA6-4ADD75200C5D}|Ticket9\\Ticket9.vcxproj|solutionrelative:Ticket9\\Ticket9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticket9.cpp",
+              "DocumentMoniker": "C:\\Users\\KING\\source\\repos\\Ticket9\\Ticket9\\Ticket9.cpp",
+              "RelativeDocumentMoniker": "Ticket9\\Ticket9.cpp",
+              "ToolTip": "C:\\Users\\KING\\source\\repos\\Ticket9\\Ticket9\\Ticket9.cpp",
+              "RelativeToolTip": "Ticket9\\Ticket9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T17:33:10.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
